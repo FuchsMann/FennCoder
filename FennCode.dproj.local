@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/07 13:03:34.000.822,=C:\Users\Fuchs\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/07 13:05:33.000.526,C:\Users\Fuchs\Documents\Embarcadero\Studio\Projects\FoxCodeFormMain.pas=C:\Users\Fuchs\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/07 13:05:33.000.526,C:\Users\Fuchs\Documents\Embarcadero\Studio\Projects\FoxCodeFormMain.fmx=C:\Users\Fuchs\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/08/07 13:05:40.000.174,C:\Users\Fuchs\Documents\Embarcadero\Studio\Projects\FoxCode.dproj=C:\Users\Fuchs\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/08/07 16:58:22.979,C:\Users\Fuchs\Documents\Embarcadero\Studio\Projects\FennCode.dproj=C:\Users\Fuchs\Documents\Embarcadero\Studio\Projects\FoxCode.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

@@ -1,0 +1,9 @@
+inherited FoxCodeForm1_Windows: TFoxCodeForm1_Windows
+  DesignerMasterStyle = 0
+  inherited pnlMain: TPanel
+    inherited objMemo: TMemo
+      Viewport.Width = 673.000000000000000000
+      Viewport.Height = 84.000000000000000000
+    end
+  end
+end
